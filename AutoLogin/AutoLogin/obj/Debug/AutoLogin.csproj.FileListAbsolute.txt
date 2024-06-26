@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\AutoLogin\AutoLogin\bin\Debug\AutoLogin.exe.config
+C:\Users\Dell\source\repos\AutoLogin\AutoLogin\bin\Debug\AutoLogin.exe
+C:\Users\Dell\source\repos\AutoLogin\AutoLogin\bin\Debug\AutoLogin.pdb
+C:\Users\Dell\source\repos\AutoLogin\AutoLogin\obj\Debug\AutoLogin.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\AutoLogin\AutoLogin\obj\Debug\AutoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\AutoLogin\AutoLogin\obj\Debug\AutoLogin.exe
+C:\Users\Dell\source\repos\AutoLogin\AutoLogin\obj\Debug\AutoLogin.pdb
